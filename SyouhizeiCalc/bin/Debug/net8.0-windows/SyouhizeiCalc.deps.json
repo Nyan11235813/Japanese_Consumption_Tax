@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SyouhizeiCalc/1.0.0": {
+        "runtime": {
+          "SyouhizeiCalc.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SyouhizeiCalc/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

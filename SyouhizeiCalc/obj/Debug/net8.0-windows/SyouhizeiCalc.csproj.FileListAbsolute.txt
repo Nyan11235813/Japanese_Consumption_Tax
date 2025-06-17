@@ -1,0 +1,16 @@
+C:\Users\jpas\source\repos\SyouhizeiCalc\SyouhizeiCalc\bin\Debug\net8.0-windows\SyouhizeiCalc.exe
+C:\Users\jpas\source\repos\SyouhizeiCalc\SyouhizeiCalc\bin\Debug\net8.0-windows\SyouhizeiCalc.deps.json
+C:\Users\jpas\source\repos\SyouhizeiCalc\SyouhizeiCalc\bin\Debug\net8.0-windows\SyouhizeiCalc.runtimeconfig.json
+C:\Users\jpas\source\repos\SyouhizeiCalc\SyouhizeiCalc\bin\Debug\net8.0-windows\SyouhizeiCalc.dll
+C:\Users\jpas\source\repos\SyouhizeiCalc\SyouhizeiCalc\bin\Debug\net8.0-windows\SyouhizeiCalc.pdb
+C:\Users\jpas\source\repos\SyouhizeiCalc\SyouhizeiCalc\obj\Debug\net8.0-windows\SyouhizeiCalc.Form1.resources
+C:\Users\jpas\source\repos\SyouhizeiCalc\SyouhizeiCalc\obj\Debug\net8.0-windows\SyouhizeiCalc.csproj.GenerateResource.cache
+C:\Users\jpas\source\repos\SyouhizeiCalc\SyouhizeiCalc\obj\Debug\net8.0-windows\SyouhizeiCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpas\source\repos\SyouhizeiCalc\SyouhizeiCalc\obj\Debug\net8.0-windows\SyouhizeiCalc.AssemblyInfoInputs.cache
+C:\Users\jpas\source\repos\SyouhizeiCalc\SyouhizeiCalc\obj\Debug\net8.0-windows\SyouhizeiCalc.AssemblyInfo.cs
+C:\Users\jpas\source\repos\SyouhizeiCalc\SyouhizeiCalc\obj\Debug\net8.0-windows\SyouhizeiCalc.csproj.CoreCompileInputs.cache
+C:\Users\jpas\source\repos\SyouhizeiCalc\SyouhizeiCalc\obj\Debug\net8.0-windows\SyouhizeiCalc.dll
+C:\Users\jpas\source\repos\SyouhizeiCalc\SyouhizeiCalc\obj\Debug\net8.0-windows\refint\SyouhizeiCalc.dll
+C:\Users\jpas\source\repos\SyouhizeiCalc\SyouhizeiCalc\obj\Debug\net8.0-windows\SyouhizeiCalc.pdb
+C:\Users\jpas\source\repos\SyouhizeiCalc\SyouhizeiCalc\obj\Debug\net8.0-windows\SyouhizeiCalc.genruntimeconfig.cache
+C:\Users\jpas\source\repos\SyouhizeiCalc\SyouhizeiCalc\obj\Debug\net8.0-windows\ref\SyouhizeiCalc.dll
